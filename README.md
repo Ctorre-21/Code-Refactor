@@ -4,11 +4,11 @@
 The the purpose of this challenge was to refactor the pervious code for a more polished, efficient, and comprehensible experience for Developers.
 
 Steps
-Looking for the html elements and adjusting for semantics
-Making sure the style.css had the proper selectors
-Making sure that the codebase follows a logical order
-Making sure that all headings follow a sequential order
-Making sure there is an accesable and descriptive title for the code
+Looking for the html elements and adjusting for semantics.
+Making sure the style.css had the proper selectors.
+Making sure that the codebase follows a logical order.
+Making sure that all headings follow a sequential order.
+Making sure there is an accesable and descriptive title for the code.
 
 
 
